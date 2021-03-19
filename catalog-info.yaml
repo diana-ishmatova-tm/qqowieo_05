@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "qqowieo_05"
+  description: "qqowieo_05"
+  annotations:
+    github.com/project-slug: Diana04/qqowieo_05
+    backstage.io/techdocs-ref: url:https://github.com/Diana04/qqowieo_05
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "Diana04"

@@ -1,0 +1,8 @@
+site_name: "qqowieo_05"
+site_description: "qqowieo_05"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
